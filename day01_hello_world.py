@@ -49,3 +49,27 @@ print(10 % 3)
 # 13. power
 print(2 ** 3)
 print(3 ** 2)
+
+
+# Day 1 Final Challenge
+
+# Prints your name.
+print("Ganta Naga Vamsi")
+
+# Prints your hometown.
+print("Kaikaluru, Andhra Pradesh")
+
+# Calculates the sum of 25 and 15.
+print("sum :", 25 + 15)
+
+# Calculates the difference between 50 and 20.
+print(50 - 20)
+
+# Calculates the product of 8 and 7.
+print(8 * 7)
+
+# Divides 100 by 4.
+print(100 / 4)
+
+# Finds the remainder when 17 is divided by 5.
+print(17 % 5)
