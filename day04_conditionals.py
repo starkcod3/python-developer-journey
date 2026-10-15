@@ -153,3 +153,15 @@ final_price = total - discount_amount
 
 print("Discount:", discount_amount)
 print("Final price:", final_price)
+
+# leet code problem
+root = [10, 4, 6]
+root_left_value = root[1]
+root_right_value = root[2]
+
+root_value = root_left_value + root_right_value
+
+if root_value == root[0]:
+    print(True)
+else:
+    print(False)
