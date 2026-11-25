@@ -111,3 +111,12 @@ for number in numbers:
     total = total + number
 
 print("Total:", total)
+
+
+# Your exercise
+# Create this list:
+# Use a for loop with range() and len() to print:
+
+numbers = [5, 10, 15, 20, 25]
+for i in range(len(numbers)):
+    print("index:", i, "value:", numbers[i])
